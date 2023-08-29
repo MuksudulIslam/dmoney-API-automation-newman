@@ -20,4 +20,6 @@
 - https://documenter.getpostman.com/view/29332524/2s9Y5ZuMTW
 
 ## Test Report:
+![screencapture-file-D-postman-dmoney-reports-report-html-2023-08-29-17_01_09](https://github.com/MuksudulIslam/dmoney-API-automation-newman/assets/143453305/8979c114-96a2-4126-bb92-8f33026dde37)
+
 
