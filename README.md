@@ -22,4 +22,10 @@
 ## Test Report:
 ![screencapture-file-D-postman-dmoney-reports-report-html-2023-08-29-17_01_09](https://github.com/MuksudulIslam/dmoney-API-automation-newman/assets/143453305/8979c114-96a2-4126-bb92-8f33026dde37)
 
+## Test Case File:
+- https://docs.google.com/spreadsheets/d/1bbAvjNs-47JF7cmQ5rUl5xGj-zhQ-vj3/edit?usp=sharing&ouid=116047475173257041850&rtpof=true&sd=true
+
+## Bug Report:
+- 
+
 
